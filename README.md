@@ -24,7 +24,7 @@ Compile os três arquivos `.java` simultaneamente:
 javac Principal.java TabelaHash.java No.java
 
 
-## 2. Execução
+### 2. Execução
 
 Execute a classe principal. A saída será gerada no formato CSV diretamente no console.
 
