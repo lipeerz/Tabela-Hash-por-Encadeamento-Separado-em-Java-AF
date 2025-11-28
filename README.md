@@ -3,7 +3,7 @@
 **Instituição:** PUCPR - Pontifícia Universidade Católica do Paraná  
 **Disciplina:** Resolução de Problemas Estruturados em Computação  
 **Aluno:** Alan Filipe  
-**Link Youtube:** (a preencher)
+**Link Youtube:** https://youtu.be/gtH-kEBx9Go
 
 ## Sobre o Projeto
 Este projeto consiste na implementação manual de uma **Tabela Hash com tratamento de colisões por Encadeamento Separado** em Java. O objetivo é analisar experimentalmente o desempenho de inserção e busca sob diferentes cenários, variando:
@@ -42,7 +42,7 @@ A implementação respeita os requisitos de reprodutibilidade utilizando seeds f
 
 As métricas coletadas incluem tempo de inserção, colisões na tabela (slots ocupados), colisões na lista (comprimento médio do encadeamento) e comparações em buscas bem-sucedidas e malsucedidas.
 
-### Sentinela de Autoria (Obrigatório)
+### Sentinela de Autoria
 
 > **"Distribuições mais uniformes reduzem o custo médio no encadeamento separado."**
 
